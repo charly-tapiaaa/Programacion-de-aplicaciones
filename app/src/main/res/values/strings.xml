@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Miloginapp5agemini</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="social_login">Social Login</string>
+    <string name="success_login">ingresaste las credenciales correctas</string>
+    <string name="error_username_required">Por favor ingresa un usuario</string>
+    <string name="error_password_required">Por favor ingresa la contraseña</string>
+    <string name="desc_user_icon">User Icon</string>
+    <string name="desc_facebook_login">Facebook Login</string>
+    <string name="desc_linkedin_login">LinkedIn Login</string>
+</resources>
